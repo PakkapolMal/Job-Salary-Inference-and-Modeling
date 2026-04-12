@@ -8,6 +8,7 @@ This project fulfills the requirements for **Project 2: Statistical Modeling & I
 ## Repository Structure
 To ensure full reproducibility, the project is structured as follows:
 
+```text
 DES432-Job-Salary-Inference-Modeling/
 │
 ├── data/
