@@ -25,3 +25,22 @@ DES432-Job-Salary-Inference-Modeling/
 │   ├── salary-by-jobs.png
 │   ├── MLR-prediction.png
 │   └── residual-analysis.jpg
+```
+
+## Dataset
+The data is sourced from the public Job Salary Prediction Dataset on Kaggle (https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset/data).
+
+### Modeled Variables
+* **`salary`** *(Response Variable)*: Annual employee compensation.
+* **`experience_years`** *(Predictor)*: Total years of professional experience.
+* **`education_level`** *(Predictor)*: Highest academic degree attained.
+* **`company_size`** *(Predictor)*: Scale of the employing organization.
+* **`job_field`** *(Predictor - Engineered)*: The original 12 highly-specific job titles were grouped into 4 broader technical sectors (Data & AI, Software Dev, Infra & Security, Product & Business) to optimize regression modeling and prevent high cardinality.
+
+## Dependencies
+* `pandas`
+* `numpy`
+* `matplotlib`
+* `seaborn`
+* `statsmodels`
+* `scipy`
