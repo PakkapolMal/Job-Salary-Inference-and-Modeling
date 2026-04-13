@@ -44,3 +44,7 @@ The data is sourced from the public Job Salary Prediction Dataset on Kaggle (htt
 * `seaborn`
 * `statsmodels`
 * `scipy`
+
+## Contributor
+* Pakkapol Maluangnont
+* Thanutch Mel Pholsukcharoen
