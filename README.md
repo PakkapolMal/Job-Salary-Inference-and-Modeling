@@ -1,7 +1,7 @@
 # DES432: Job Salary Inference & Modeling
 
 ## Project Overview
-This repository contains a comprehensive statistical analysis of global technology compensation to identify the key drivers of salary using Python. Utilizing a dataset of 250,000 job records, this study applies exploratory data analysis (EDA), hypothesis testing, and Multiple Linear Regression (MLR) to evaluate the impact of experience, education, company size, and specific technical disciplines on earning potential. 
+This repository contains a comprehensive statistical analysis of global technology compensation to identify the key drivers of salary using Python. Utilizing a dataset of 250,000 job records, this study applies exploratory data analysis (EDA), hypothesis testing, Simple Linear Regression (SLR), and Multiple Linear Regression (MLR) to evaluate the impact of experience, education, company size, and specific technical disciplines on earning potential. 
 
 This project fulfills the requirements for **Project 2: Statistical Modeling & Interpretation** in DES432 (Statistics and Data Modeling) at the Sirindhorn International Institute of Technology (SIIT).
 
